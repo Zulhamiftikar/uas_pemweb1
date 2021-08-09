@@ -2,7 +2,7 @@
 - NIM : 311910537
 - Matkul : Pemrograman Web
 - Kelas : TI.19.B2
-- Link demo : 
+- Link demo : http://iurankas.my.id/
 # UAS 
 
 Tampilan Data Warga
